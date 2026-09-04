@@ -1,0 +1,10 @@
+{
+  "name": "BhumiPutra",
+  "short_name": "BhumiPutra",
+  "description": "Farm to buyer, direct.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f2f2",
+  "theme_color": "#ec3013",
+  "icons": []
+}
